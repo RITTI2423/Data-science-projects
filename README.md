@@ -1,2 +1,1 @@
-# RAGHAVA
- I've worked on different datasets and have uploaded all the projects I have worked on.
+ # I've worked on different datasets and have uploaded all the projects I have worked on.
